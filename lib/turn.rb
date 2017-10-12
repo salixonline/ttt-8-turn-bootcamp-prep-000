@@ -15,7 +15,7 @@ def turn(board)
   else
     turn(board)
   end
-  # display_board(board)
+  display_board(board)
 end
 
 def input_to_index(input)
